@@ -54,3 +54,86 @@
 2025-01-26 18:14:48,245 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\admin.py changed, reloading. 266 
 2025-01-26 18:14:53,568 INFO Watching for file changes with StatReloader 668 
 2025-01-26 18:15:59,700 INFO Watching for file changes with StatReloader 668 
+2025-01-26 18:16:02,310 WARNING Not Found: / 241 
+2025-01-26 18:16:02,311 WARNING "GET / HTTP/1.1" 404 2197 212 
+2025-01-26 18:16:17,352 INFO "GET /admin/ HTTP/1.1" 302 0 212 
+2025-01-26 18:16:17,517 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181 212 
+2025-01-26 18:16:17,609 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929 212 
+2025-01-26 18:16:17,609 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694 212 
+2025-01-26 18:16:17,613 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 21207 212 
+2025-01-26 18:16:17,627 INFO "GET /static/admin/css/login.css HTTP/1.1" 200 958 212 
+2025-01-26 18:16:17,637 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 200 18557 212 
+2025-01-26 18:16:17,650 INFO "GET /static/admin/js/theme.js HTTP/1.1" 200 1943 212 
+2025-01-26 18:16:17,655 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063 212 
+2025-01-26 18:16:23,553 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0 212 
+2025-01-26 18:16:23,588 INFO "GET /admin/ HTTP/1.1" 200 6223 212 
+2025-01-26 18:16:23,613 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441 212 
+2025-01-26 18:16:23,617 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380 212 
+2025-01-26 18:16:23,618 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331 212 
+2025-01-26 18:16:29,825 INFO "GET /admin/imgaeapp/profile/add/ HTTP/1.1" 200 8954 212 
+2025-01-26 18:16:29,847 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2025-01-26 18:16:29,854 INFO "GET /static/admin/css/forms.css HTTP/1.1" 200 8953 212 
+2025-01-26 18:16:29,864 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887 212 
+2025-01-26 18:16:29,867 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531 212 
+2025-01-26 18:16:29,868 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943 212 
+2025-01-26 18:16:29,868 INFO "GET /static/admin/js/core.js HTTP/1.1" 200 5682 212 
+2025-01-26 18:16:29,871 INFO "GET /static/admin/js/actions.js HTTP/1.1" 200 7872 212 
+2025-01-26 18:16:29,876 INFO "GET /static/admin/css/widgets.css HTTP/1.1" 200 11952 212 
+2025-01-26 18:16:29,883 INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586 212 
+2025-01-26 18:16:29,883 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347 212 
+2025-01-26 18:16:29,918 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381 212 
+2025-01-26 18:16:29,930 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458 212 
+2025-01-26 18:16:29,935 INFO "GET /static/admin/js/change_form.js HTTP/1.1" 200 606 212 
+2025-01-26 18:18:10,844 INFO "POST /admin/imgaeapp/profile/add/ HTTP/1.1" 302 0 212 
+2025-01-26 18:18:10,857 INFO "GET /admin/imgaeapp/profile/add/ HTTP/1.1" 200 9203 212 
+2025-01-26 18:18:10,875 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2025-01-26 18:18:10,895 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436 212 
+2025-01-26 18:18:21,228 INFO "POST /admin/imgaeapp/profile/add/ HTTP/1.1" 302 0 212 
+2025-01-26 18:18:21,326 INFO "GET /admin/imgaeapp/profile/ HTTP/1.1" 200 9626 212 
+2025-01-26 18:18:21,347 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2025-01-26 18:18:21,348 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6584 212 
+2025-01-26 18:18:21,363 INFO "GET /static/admin/js/filters.js HTTP/1.1" 200 978 212 
+2025-01-26 18:18:21,367 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331 212 
+2025-01-26 18:18:27,239 INFO "GET /media/images/javascript.jpg HTTP/1.1" 200 5356 212 
+2025-01-26 18:21:38,622 INFO "GET /admin/imgaeapp/profile/ HTTP/1.1" 200 9412 212 
+2025-01-26 18:25:46,663 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-26 18:25:47,362 INFO Watching for file changes with StatReloader 668 
+2025-01-26 18:25:57,900 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-26 18:25:58,502 INFO Watching for file changes with StatReloader 668 
+2025-01-26 18:26:03,762 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-26 18:26:04,326 INFO Watching for file changes with StatReloader 668 
+2025-01-26 18:26:09,756 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-26 18:26:10,285 INFO Watching for file changes with StatReloader 668 
+2025-01-26 18:26:13,655 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-26 18:26:14,190 INFO Watching for file changes with StatReloader 668 
+2025-01-26 18:26:27,790 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\urls.py changed, reloading. 266 
+2025-01-26 18:26:28,373 INFO Watching for file changes with StatReloader 668 
+2025-01-26 18:26:31,724 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\urls.py changed, reloading. 266 
+2025-01-26 18:26:32,274 INFO Watching for file changes with StatReloader 668 
+2025-01-26 18:26:34,614 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\urls.py changed, reloading. 266 
+2025-01-26 18:26:35,199 INFO Watching for file changes with StatReloader 668 
+2025-01-26 18:26:37,409 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\urls.py changed, reloading. 266 
+2025-01-26 18:26:37,931 INFO Watching for file changes with StatReloader 668 
+2025-01-26 18:26:41,907 ERROR Internal Server Error: / 241 
+Traceback (most recent call last):
+  File "C:\Users\00\Desktop\ImageUploader\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\00\Desktop\ImageUploader\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py", line 6, in profile
+    return render(request,'profile.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\00\Desktop\ImageUploader\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\00\Desktop\ImageUploader\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\00\Desktop\ImageUploader\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: profile.html
+2025-01-26 18:26:41,908 ERROR "GET / HTTP/1.1" 500 78848 212 
+2025-01-26 18:27:08,028 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imageuploadproject\settings.py changed, reloading. 266 
+2025-01-26 18:27:21,008 INFO Watching for file changes with StatReloader 668 
