@@ -137,3 +137,111 @@ django.template.exceptions.TemplateDoesNotExist: profile.html
 2025-01-26 18:26:41,908 ERROR "GET / HTTP/1.1" 500 78848 212 
 2025-01-26 18:27:08,028 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imageuploadproject\settings.py changed, reloading. 266 
 2025-01-26 18:27:21,008 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:40:12,916 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:40:17,368 INFO "GET / HTTP/1.1" 200 244 212 
+2025-01-27 08:40:17,567 WARNING Not Found: /favicon.ico 241 
+2025-01-27 08:40:17,567 WARNING "GET /favicon.ico HTTP/1.1" 404 2411 212 
+2025-01-27 08:43:01,866 INFO "GET / HTTP/1.1" 200 677 212 
+2025-01-27 08:44:08,526 INFO "POST / HTTP/1.1" 200 677 212 
+2025-01-27 08:45:04,878 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:06,280 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:45:09,821 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:11,022 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:45:14,559 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:15,871 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:45:17,254 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:18,587 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:45:22,143 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:23,466 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:45:25,128 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:26,371 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:45:30,169 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:31,391 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:45:34,101 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:35,336 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:45:40,096 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:41,261 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:45:42,649 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:43,992 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:45:58,219 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:45:59,458 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:46:06,435 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:46:07,791 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:46:10,575 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:46:11,788 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:46:16,650 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:46:17,989 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:46:26,839 INFO "POST / HTTP/1.1" 200 677 212 
+2025-01-27 08:46:37,101 INFO "POST / HTTP/1.1" 200 677 212 
+2025-01-27 08:53:11,218 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:12,335 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:15,108 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:16,334 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:18,071 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:19,308 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:21,981 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:23,108 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:24,797 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:25,975 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:27,567 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:28,677 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:34,667 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:35,815 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:38,599 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:39,728 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:42,248 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:43,456 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:49,965 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:51,169 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:55,723 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:53:57,030 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:53:59,737 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:00,985 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:54:02,725 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:04,018 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:54:10,831 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:11,933 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:54:15,516 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:16,772 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:54:18,119 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:19,511 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:54:22,251 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:23,426 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:54:34,493 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:35,661 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:54:41,478 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:42,580 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:54:48,484 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:49,587 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:54:51,312 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:52,435 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:54:57,190 INFO C:\Users\00\Desktop\ImageUploader\imageuploadproject\imgaeapp\views.py changed, reloading. 266 
+2025-01-27 08:54:58,246 INFO Watching for file changes with StatReloader 668 
+2025-01-27 08:55:29,051 INFO "GET /admin/ HTTP/1.1" 200 6856 212 
+2025-01-27 08:55:29,391 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 22345 212 
+2025-01-27 08:55:29,400 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2838 212 
+2025-01-27 08:55:29,400 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 200 470 212 
+2025-01-27 08:55:29,413 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3066 212 
+2025-01-27 08:55:29,422 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 200 19556 212 
+2025-01-27 08:55:29,430 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3142 212 
+2025-01-27 08:55:29,438 INFO "GET /static/admin/js/theme.js HTTP/1.1" 200 1999 212 
+2025-01-27 08:55:29,446 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 383 212 
+2025-01-27 08:55:29,446 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 334 212 
+2025-01-27 08:55:31,536 INFO "GET /admin/imgaeapp/profile/ HTTP/1.1" 200 9768 212 
+2025-01-27 08:55:31,579 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6912 212 
+2025-01-27 08:55:31,599 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2025-01-27 08:55:31,599 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 355 212 
+2025-01-27 08:55:31,616 INFO "GET /static/admin/js/actions.js HTTP/1.1" 200 8073 212 
+2025-01-27 08:55:31,616 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9181 212 
+2025-01-27 08:55:31,621 INFO "GET /static/admin/js/core.js HTTP/1.1" 200 5852 212 
+2025-01-27 08:55:31,630 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1574 212 
+2025-01-27 08:55:31,642 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 200 8056 212 
+2025-01-27 08:55:31,688 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 303423 212 
+2025-01-27 08:55:31,717 INFO "GET /static/admin/js/filters.js HTTP/1.1" 200 1008 212 
+2025-01-27 08:55:31,738 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 237033 212 
+2025-01-27 08:55:31,770 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 334 212 
+2025-01-27 08:55:46,192 INFO "POST / HTTP/1.1" 302 0 212 
+2025-01-27 08:55:46,192 INFO "GET / HTTP/1.1" 200 677 212 
+2025-01-27 08:55:48,954 INFO "GET /admin/imgaeapp/profile/ HTTP/1.1" 200 10088 212 
+2025-01-27 08:55:48,980 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2025-01-27 08:56:04,910 INFO Watching for file changes with StatReloader 668 
