@@ -6,10 +6,10 @@ from .models import Profile
 def profile(request):
     if request.method =="POST" and request.FILES:
         name=request.POST["profile_name"] #frontend bata aako
-        print(name)
         image=request.FILES["profile_image"] #frontend bata aako
-        print(image)
-        user=Profile(profile_name=name,profile_image=image) #model=frontend part
+        rate=request.POST["per_hourrate"]  #frontend bata aako
+        user=Profile(profile_name=name,profile_image=image,per_hourrate=rate) #model=frontend part
         user.save()
         return redirect('profile')
-    return render(request,'profile.html')
+    users=Profile.objects.all()
+    return render(request,'profile.html',{'users':users})
